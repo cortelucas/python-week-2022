@@ -17,6 +17,7 @@ flake8 = "^4.0.1"
 
 [tool.poetry.dev-dependencies]
 ipython = "^8.2.0"
+pylint = "^2.13.7"
 
 [tool.poetry.scripts]
 beerlog = "beerlog.__main__:main"
